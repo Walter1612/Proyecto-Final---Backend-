@@ -2,7 +2,7 @@
 
 Proyecto final desarrollado para el curso de Programación II.
 
-El sistema permite administrar los servicios de estética de una peluquería de mascotas y gestionar las citas asociadas a dichos servicios.
+El sistema permite administrar servicios de estética para mascotas, registrar citas, consultar la agenda, cambiar estados y visualizar indicadores básicos.
 
 ## Autor
 
@@ -17,6 +17,9 @@ Walter Isaí Villagrán García
 - Spring Data JPA
 - Jakarta Validation
 - PostgreSQL
+- HTML
+- CSS
+- JavaScript
 - Postman
 
 ## Base de datos
