@@ -24,7 +24,6 @@ La base de datos se llama:
 
 ```text
 peluqueria_mascotas
-
 Se utilizó PostgreSQL.
 Funciones del sistema
 El sistema permite:
